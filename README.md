@@ -1,5 +1,8 @@
-## Hi there 👋
+## MarkIrahCarey🐺👋
 
+I am a computer programmer who yearns to apply their background of math and computer science. All programs
+are things that I have developed over the years, many of which are developed with the idea of taking real world
+problem-solving or entertainment. 
 <!--
 **MarkIrahCarey/MarkIrahCarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
