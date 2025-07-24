@@ -1,7 +1,7 @@
 # Hi 🐺👋, I am Mark Ira
----
+
 ## Struggling Graduate Student
----
+
 I am a computer programmer who yearns to apply their background of math and computer science. All programs
 are things that I have developed over the years, many of which are developed with the idea of taking real world
 problem-solving or entertainment. <br>
@@ -12,7 +12,7 @@ Hope to enter the Data Science Field one day, but also would love to try game de
 - ⚡ I am procrastination at its finest <br>
 - 🐺 Wolf Lover <br>
 - 🦭 Seal Lover <br>
----
+
 ## Languages
 <p align="left">
   <a href="https://www.python.org/doc/" target="_blank">
